@@ -1,5 +1,5 @@
 # team-name
-<img src="https://user-images.githubusercontent.com/55350092/160306027-32c4c6f0-effc-4640-92a5-7b83fe56423d.jpg" width="1000" height="400"/>
+<img align="right" src="https://user-images.githubusercontent.com/55350092/160306027-32c4c6f0-effc-4640-92a5-7b83fe56423d.jpg" width="650" height="400"/>
 
 ### ✍️ Member
 **문신혁**
@@ -16,6 +16,8 @@
 <a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/do-hyung-kim?label=do-hyung-kim&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-dohyungkim@gmail.com-red)
 > Hello World!
+
+<br></br>
 
 ### 📆 Calendar
 |Date |Participant|Topic|Place|
