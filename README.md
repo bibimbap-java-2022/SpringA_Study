@@ -6,17 +6,17 @@
 ### ✍️ Member
 **문신혁**
 <a href="https://github.com/Moonshinhyuk"><img src="https://img.shields.io/github/followers/Moonshinhyuk?label=Moonshinhyuk&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-anstlsgur7901@gmail.com-blue)
+![Badge](https://img.shields.io/badge/email-anstlsgur7901@gmail.com-lightgreen)
 > Hello World!
 
 **김동현**
 <a href="https://github.com/SuninjangisCactus"><img src="https://img.shields.io/github/followers/SuninjangisCactus?label=SuninjangisCactus&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-SuninjangisCactus@gmail.com-blue)
+![Badge](https://img.shields.io/badge/email-SuninjangisCactus@gmail.com-lightgreen)
 > Hello World!
 
 **김도형**
 <a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/do-hyung-kim?label=do-hyung-kim&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-dohyungkim@gmail.com-blue)
+![Badge](https://img.shields.io/badge/email-dohyungkim@gmail.com-lightgreen)
 > Hello World!
 
 <br></br>
