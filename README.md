@@ -1,5 +1,7 @@
 # team-name
-<img align="right" src="https://user-images.githubusercontent.com/55350092/160306027-32c4c6f0-effc-4640-92a5-7b83fe56423d.jpg" width="550" height="400"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55350092/160306027-32c4c6f0-effc-4640-92a5-7b83fe56423d.jpg" width="1000" height="400"/>
+</div>
 
 ### ✍️ Member
 **문신혁**
