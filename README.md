@@ -9,12 +9,12 @@
 
 **김동현**
 <a href="https://github.com/SuninjangisCactus"><img src="https://img.shields.io/github/followers/SuninjangisCactus?label=SuninjangisCactus&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-SuninjangisCactusgmail.com-red)
+![Badge](https://img.shields.io/badge/email-SuninjangisCactus@gmail.com-red)
 > Hello World!
 
 **김도형**
 <a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/do-hyung-kim?label=do-hyung-kim&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-do-hyung-kim@gmail.com-red)
+![Badge](https://img.shields.io/badge/email-dohyungkim@gmail.com-red)
 > Hello World!
 
 ### 📆 Calendar
