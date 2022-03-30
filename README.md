@@ -7,7 +7,7 @@
 **문신혁**
 <a href="https://github.com/Moonshinhyuk"><img src="https://img.shields.io/github/followers/Moonshinhyuk?label=Moonshinhyuk&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-anstlsgur7901@gmail.com-lightgreen)
-> Hello World!
+> 스프링 A팀 화이팅!
 
 **김동현**
 <a href="https://github.com/SuninjangisCactus"><img src="https://img.shields.io/github/followers/SuninjangisCactus?label=SuninjangisCactus&style=social"/></a>
