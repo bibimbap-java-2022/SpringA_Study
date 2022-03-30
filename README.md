@@ -16,7 +16,7 @@
 
 **김도형**
 <a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/do-hyung-kim?label=do-hyung-kim&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-k11l256@40naver.com-lightgreen)
+![Badge](https://img.shields.io/badge/email-k11l256%40naver.com-lightgreen)
 > Hello World!
 
 <br></br>
