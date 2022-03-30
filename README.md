@@ -12,7 +12,7 @@
 **김동현**
 <a href="https://github.com/SuninjangisCactus"><img src="https://img.shields.io/github/followers/SuninjangisCactus?label=SuninjangisCactus&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-asdf06013125%40gmail.com-blue)
-> 열정! 열정! 열정!
+> 화이팅!!
 
 **김도형**
 <a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/DO-HYEONG-KIM?label=kimdohyeong&style=social"/></a>
