@@ -15,7 +15,7 @@
 > Hello World!
 
 **김도형**
-<a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/do-hyung-kim?label=kimdohyeong&style=social"/></a>
+<a href="https://github.com/do-hyung-kim"><img src="https://img.shields.io/github/followers/DO-HYEONG-KIM?label=kimdohyeong&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-k11l256%40naver.com-lightgreen)
 > 안녕하세요!
 
