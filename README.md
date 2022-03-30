@@ -11,7 +11,7 @@
 
 **김동현**
 <a href="https://github.com/SuninjangisCactus"><img src="https://img.shields.io/github/followers/SuninjangisCactus?label=SuninjangisCactus&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-asdf06013125@40gmail.com-blue)
+![Badge](https://img.shields.io/badge/email-asdf06013125%40gmail.com-blue)
 > 열정! 열정! 열정!
 
 **김도형**
