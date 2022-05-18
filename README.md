@@ -25,4 +25,4 @@
 |Date |Participant|Topic|Place|
 |--|--|--|--|
 |2022-03-29|`Moonshinhyuk`,`SuninjangisCactus`,`do-hyung-kim`| 깃허브 레포지토리 생성|Online|
-|2022-03-30|`Moonshinhyuk`,`SuninjangisCactus`,`do-hyung-kim`| 줌 온라인 스터디 |Online|
+|2022-05-18|`Moonshinhyuk`,`SuninjangisCactus`,`do-hyung-kim`| 스프링 주제 정하기, 기본 공부 |Offline|
