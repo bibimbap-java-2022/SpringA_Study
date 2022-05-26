@@ -19,7 +19,7 @@ form 요소를 사용해 사용자로부터 입력받기
   - 서버로 보낼 수 있는 최대 글자수는 2048자  
   - URL을 보면 어떤 데이터를 전송하는지 알 수 있기 때문에 보안에 취약  
   - e.g.  
-<!DOCTYPE html>  
+
 <html>  
   <head>  
     <title>GET방식</title>  
@@ -38,7 +38,7 @@ form 요소를 사용해 사용자로부터 입력받기
  - 서버로 보낼 수 있는 글자 수 제한 없음  
  - GET방식과 비교해 보안상 우위에 있음  
  - e.g.  
-<!DOCTYPE html>  
+   
 <html>  
   <head>  
     <title>POST방식</title>  
