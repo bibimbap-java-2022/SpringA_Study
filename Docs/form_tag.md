@@ -52,3 +52,4 @@ form 요소를 사용해 사용자로부터 입력받기
   </body>  
   </html>  
  
+참고 : https://sseoui.tistory.com/22
