@@ -1,4 +1,4 @@
-﻿HTTP 프로토콜
+HTTP 프로토콜
 
 0. 프로토콜이란?
 
@@ -68,12 +68,11 @@ Uniform Resource Identifiers 의 줄임로, World Wide Web 상에서 접근하�
   
 웹페이지의 위치를 나타내기 위해서 사용하는 https://www.dcinside.com/index.php 등이 URI의 예다.  
   
-https://www.dcinside.com/index.php 를 분해하여 분석해보자.  
+https://www.dcinside.com/index.php 를 분해하여 분석하면 다음과 같다.  
   
 https : 자원에 접근하기 위해서 https 프로토콜을 사용한다.  
 www.dcinside.com : 자원의 인터넷 상에서의 위치는 www.dcinside.com이다.  
-도메인은 ip 주소로 변환되므로, ip 주소로 서버의 위치를 찾을 수 있다.
-  
+도메인은 ip 주소로 변환되므로, ip 주소로 서버의 위치를 찾을 수 있다.  
 index.php : 요청할 자원의 이름이다.  
   
 이렇게 "프로토콜", "위치", "자원명"으로 어디에 있던지 자원에 접근할 수 있다.  
@@ -102,19 +101,3 @@ Restful API 서버의 경우에는 GET, POST, DELETE, PUT을 명시적으로 구
   
 자원의 위치 뿐만 아니라 자원에 할 일 까지 명확히 명시할 수 있기 때문에,  
 Open API 서버를 만들기 위해서 널리 사용한다.  
-  
-6. 요청데이터 포맷  
-  
-ㄱ. 요청 메서드 : GET, PUT, POST, PUSH, OPTIONS 등의 요청 방식이 온다. ( GET )  
-ㄴ. 요청 URI : 요청하는 자원의 위치를 명시한다. ( URI )  
-ㄷ. HTTP 프로토콜 버전 : 웹 브라우저가 사용하는 프로토콜 버전이다.( HTTP/1.1 )  
-  
-7. 응답헤더 포맷  
-  
-프로토콜과 응답코드 : ( HTTP/1.1 200 OK )  
-날짜 : ( Date: Sun, 12 Aug 2018 11:30:00 GMT )  
-서버 프로그램및 스크립트 정보 : ( Apache/2.2.4 (Unix) PHP/5.2.0 )  
-응답헤더에는 다양한 정보를 추가할 수가 있다.  
-컨텐츠의 마지막 수정일  
-캐쉬 제어 방식.  
-컨텐츠 길이.  
